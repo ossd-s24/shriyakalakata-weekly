@@ -22,7 +22,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Apr 9 | [link](https://github.com/google/mediapipe/issues/5304) | Mediapipe | Raised a doc issue on Python Compatability |
+| Apr 9 | [link](https://github.com/google/mediapipe/issues/5304) | Mediapipe Issue| Raised a doc issue on Python Compatability |
 | Mar 15 | [link1](https://www.openstreetmap.org/changeset/148703250#map=19/40.74445/-73.97304), [link2](https://www.openstreetmap.org/changeset/148703631) | OpenStreetMap | Added local Murray Hill spots: a Basketball court and a pizza place |
 | Mar 13| [link](https://github.com/matplotlib/matplotlib/issues/27920) | Matplotlib issue | Issue about flake8 test failing because of docstring styling |
 | Mar 3 | [link](https://github.com/joannakl/ossd/issues/104) | Course Website Issue | Opened an issue about a project that is now archived |
