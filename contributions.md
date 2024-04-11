@@ -22,6 +22,8 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+| Apr 11 | [link](https://github.com/joannakl/ossd/issues/114) | Course Website Issue | Reported issue on incorrect due date | 
+| Apr 11 | [link](https://github.com/joannakl/ossd/issues/112) | Course Website Issue Discussion | Adding another resource to a proposal | 
 | Apr 9 | [link](https://en.wikipedia.org/w/index.php?title=Jannik_Sinner&diff=prev&oldid=1218122706) | Wikipedia Edit | Add stats on Jannik Sinner's matches at Indian Wells 2024 |
 | Apr 9 | [link](https://en.wikipedia.org/w/index.php?title=NYU_Violets&diff=prev&oldid=1218118994) | Wikipedia Edit | Added NYU tennis team playing location | 
 | Apr 9 | [link](https://github.com/google/mediapipe/issues/5304) | Mediapipe Issue| Raised a doc issue on Python Compatability |
