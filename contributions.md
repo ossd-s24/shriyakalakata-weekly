@@ -22,6 +22,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+| May 6 | [link](https://github.com/MarcoGorelli/narwhals/pull/89) | Narwhals | PR for adding a docstring |
 | Apr 26 | [link](https://github.com/joannakl/ossd/issues/122) | Course Website Issue | Reported issue on missing info |
 | Apr 11 | [link](https://github.com/joannakl/ossd/issues/114) | Course Website Issue | Reported issue on incorrect due date | 
 | Apr 11 | [link](https://github.com/joannakl/ossd/issues/112) | Course Website Issue Discussion | Adding another resource to a proposal | 
